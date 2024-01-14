@@ -40,7 +40,7 @@ conn.reply(m.chat, `*🚩 Ocurrió un fallo*`, m, fake, )
 console.log(e)
 }}
 handler.tags = ['bot']
-handler.command = /^(menu)$/i
+handler.command = /^(men)$/i
 handler.register = true
 
 export default handler
