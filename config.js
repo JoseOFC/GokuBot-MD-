@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
-global.owner = [['524531287294', 'CuriosityBot-MD 🍧', true], ['5217294888993'], ['573155428601'], ['5214531287294'], ['51906662557'], ['5492266466080'], ['593968585383'], ['573026191480'], ['5492266613038'], ['573106040746'], ['525610314499']]
+global.owner = [['593939005387', '모┊𝙹𝙾𝚂𝚃𝙸𝙽┊모' true]]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -14,12 +14,12 @@ global.suittag = ['5214531287294']
 global.mods = []
 global.prems = []
 
-global.packname = '© CuriosityBot'
-global.author = 'Created By Azami'
+global.packname = '© 𝙶𝙾𝙺𝚄𝙱𝙾𝚃'
+global.author = 'Created By Jostin'
 global.wm = '© CuriosityBot-MD'
-global.wm2 = '𝗖𝗎𝗋𝗂𝗈𝗌𝗂𝗍𝗒 : 𝗕𝗈𝗍'
-global.azami = 'Azami'
-global.cb = 'CuriosityBot-MD'
+global.wm2 = '𝗚oku : 𝗕𝗈𝗍'
+global.azami = 'Jostin'
+global.cb = 'GokuBot-MD'
 
 global.vs = 'V2 • 1.0.5'
 global.library = 'Baileys'
