@@ -1,5 +1,5 @@
 {
-"name": "CuriosityBot-MD",
+"name": "GokuBot-MD",
 "version": "1.0.0", 
 "description": "WhatsApp Bot - Node.Js",
 "main": "index.js",
@@ -19,7 +19,7 @@
     
 "homepage": "https://github.com/AzamiJs/CuriosityBot-MD",
 "author": {
-"name": "Azami_dev" }, 
+"name": "Jostin_dev" }, 
     
 "repository": {
 "type": "git",
