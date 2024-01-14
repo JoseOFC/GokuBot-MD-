@@ -11,7 +11,7 @@ if (!text) return conn.reply(m.chat, `*🎌 Ingrese una petición*\n\nEjemplo, !
 try {
 
 conn.sendPresenceUpdate('composing', m.chat)  
-let syms = `Eres un asistente y tu nombre es CuriosityBot-MD, el nombre de tu dueño es Azami`
+let syms = `Eres un asistente y tu nombre es GokuBot-MD, el nombre de tu dueño es Jostin`
 let res = await gpt.ChatGpt(text, syms)
 await m.reply(res.text)
 } catch {
