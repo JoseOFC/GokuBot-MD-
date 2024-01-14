@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
-global.owner = [['593939005387', '모┊𝙹𝙾𝚂𝚃𝙸𝙽┊모', true]]
+global.owner = [['593939005387', '모┊𝙹𝙾𝚂𝚃𝙸𝙽┊모', true], ['51982110760']]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -16,7 +16,7 @@ global.prems = []
 
 global.packname = '© 𝙶𝙾𝙺𝚄𝙱𝙾𝚃'
 global.author = 'Created By Jostin'
-global.wm = '© CuriosityBot-MD'
+global.wm = '© GokuBot-MD'
 global.wm2 = '𝗚oku : 𝗕𝗈𝗍'
 global.azami = 'Jostin'
 global.cb = 'GokuBot-MD'
