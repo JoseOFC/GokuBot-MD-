@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
-global.owner = [['593939005387', '모┊𝙹𝙾𝚂𝚃𝙸𝙽┊모', true], ['51982110760']]
+global.owner = [['593939005387', '모┊𝙹𝙾𝚂𝚃𝙸𝙽┊모', true], ['51982110760', true]]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -26,7 +26,7 @@ global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = '© jostin y angel'
+global.dev = '© 𝙶𝙾𝙺𝚄𝙱𝙾𝚃-𝙾𝙵𝙲'
 global.devnum = '+52 1 729 488 8993'
 
 let file = fileURLToPath(import.meta.url)
