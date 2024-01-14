@@ -5,7 +5,7 @@ let foto = './storage/imagenes/grupos.jpg'
 let texto = `*${nn}*`
 
 
-await conn.sendFile(m.chat, foto, 'Curiosity.jpg', texto, estilo)}
+await conn.sendFile(m.chat, foto, 'Menu2.jpg', texto, estilo)}
 
 handler.tags = ['main']
 handler.command = /^gruposcb|grupos|groups$/i
