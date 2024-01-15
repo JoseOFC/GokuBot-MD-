@@ -2,11 +2,13 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
-global.owner = [['593939005387', '𝙾𝚆𝙽𝙴𝚁 𝙹𝙾𝚂𝚃𝙸𝙽 𝙾𝙵𝙲', true], ['5491168758497', '𝙴𝙽𝚉𝙸𝚃𝙾 𝙴𝙳𝙸𝚃𝙾𝚁', true], ['573027866596', '𝙴𝙳𝙴𝚁 𝙳𝙴𝙳𝙰𝚁𝙾𝙻𝙻𝙰𝙳𝙾𝚁', true],
+global.owner = [
+  
+  ['593939005387', '𝙾𝚆𝙽𝙴𝚁 𝙹𝙾𝚂𝚃𝙸𝙽 𝙾𝙵𝙲', true], ['5491168758497', '𝙴𝙽𝚉𝙸𝚃𝙾 𝙴𝙳𝙸𝚃𝙾𝚁', true], ['573027866596', '𝙴𝙳𝙴𝚁 𝙳𝙴𝙳𝙰𝚁𝙾𝙻𝙻𝙰𝙳𝙾𝚁', true],
                 
                 
-                
-                ['542215034412', '𝙴𝙳𝙸𝚃𝙾𝚁 GOD'], ['525620110578', 'GRANDE'], ['595981477001', '𝙳𝙾𝙽𝙰𝙳𝙾𝚁']]
+  ['542215034412', '𝙴𝙳𝙸𝚃𝙾𝚁 GOD'], ['525620110578', 'GRANDE'], ['595981477001', '𝙳𝙾𝙽𝙰𝙳𝙾𝚁']
+               ]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
