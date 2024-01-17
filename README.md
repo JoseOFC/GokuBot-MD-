@@ -4,9 +4,9 @@
 <img src="https://telegra.ph/file/f244713564e909c228978.jpg" alt="GokuBot-MD" width="900"/>
 </p>
 
-<a href="https://github.com/Jostin207/GokuBot-MD-"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azamijs/CuriosityBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
+<a href="https://github.com/Jostin207/GokuBot-MD-"><img title="Stars" src="https://img.shields.io/github/stars/jostin207/GokuBot-MD-?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jostin207/GokuBot-MD-?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jostin207/GokuBot-MD-?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
 
 <a href="https://www.youtube.com/@Azami_19">
