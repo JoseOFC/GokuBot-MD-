@@ -10,14 +10,14 @@ let autor = await conn.getName(who)
 let q = m.quoted ? m.quoted : m
 let mime = (q.msg || q).mimetype || q.mediaType || ''
 
-if (!/webp|image|video/g.test(mime) && !text) return m.reply(`*[❗𝐈𝐍𝐅𝐎❗] DEBE RESPONDER A UNA IMAGEN O VIDEO CON ${usedPrefix + command}*`)
-if (/video/g.test(mime)) if ((q.msg || q).seconds > 10) return m.reply('*[❗𝐈𝐍𝐅𝐎❗] EL VÍDEO NO PUEDE DURAR MAS DE 7 SEGUNDOS*')
+if (!/webp|image|video/g.test(mime) && !text) return m.reply(`*_[❗𝐈𝐍𝐅𝐎❗] DEBE RESPONDER A UNA IMAGEN O VIDEO CON ${usedPrefix + command}_*`)
+if (/video/g.test(mime)) if ((q.msg || q).seconds > 10) return m.reply('*_[❗𝐈𝐍𝐅𝐎❗] EL VÍDEO NO PUEDE DURAR MAS DE 7 SEGUNDOS_*')
 
 if (/webp|image|video/g.test(mime)) {
 let img = await q.download?.()
 let out
 stiker = await sticker(img, false, global.packname, global.author)
-await conn.reply(m.chat, `*_Calma amigo estoy haciendo tu sticker 🧾_\n\n_*Recuerda que los stickersgif son de máximo 7 segundos*_\n\n_*by GokuBot-MD_*`, m)
+await conn.reply(m.chat, `*_Calma amigo estoy haciendo tu sticker 🧾_\n\n_ *_Recuerda que los stickersgif son de máximo 7 segundos_* _\n\n_ *_By GokuBot-MD_*`, m)
   
 if (!stiker) {
 if (/webp/g.test(mime)) out = await webp2png(img)
@@ -29,7 +29,7 @@ stiker = await sticker(false, out, global.packname, global.author)
 if (!stiker) errorMessage = 'ERROR'
 }} else if (args[0]) {
 if (isUrl(args[0])) stiker = await sticker(false, args[0], global.packname, global.author)
-else return m.reply('*[❗𝐈𝐍𝐅𝐎❗] EL ENLACE / URL / LINK NO ES VÁLIDO*')}
+else return m.reply('*_[❗𝐈𝐍𝐅𝐎❗] EL ENLACE / URL / LINK NO ES VÁLIDO_*')}
 
 if (stiker) {
 conn.sendFile(m.chat, stiker, 'sticker.webp', '', m)
