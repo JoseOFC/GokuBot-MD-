@@ -30,9 +30,9 @@ global.sityImg = [img, img1, img2, img3, img4, img5, img6]
 //Enlaces
 global.yt = 'https://www.youtube.com/@Azami_YT'
 global.ig = 'https://instagram.com/azami_dev'
-global.md = 'https://github.com/AzamiJs/CuriosityBot-MD'
+global.md = 'https://github.com/Jostin207/GokuBot-MD-'
 global.paypal = 'https://paypal.me/Azami19'
-global.git = 'https://github.com/AzamiJs'
+global.git = 'https://github.com/Jostin207'
 global.nn = 'https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s' //Grupo ofc
 global.nnn = 'https://chat.whatsapp.com/CedAfdPDr5cHkyvvw6nTAu' //Staff de GokuBot-MD |Solo personal autorisado|
 global.nnnn = 'https://chat.whatsapp.com/Gd85w1s6tKh5Nw4p490xBw' //colaboración GokuBot-MD - NexusBot-MD
