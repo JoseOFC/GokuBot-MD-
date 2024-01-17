@@ -19,7 +19,7 @@
 ### Ejemplo
 En caso de duda, antes de instalar GokuBot-MD, pruebe el bot aquí
 
-<a href="https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU">
+<a href="https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s">
   <img src="https://img.shields.io/badge/CuriosityBot-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -92,11 +92,11 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ### EDITOR & PROPIETARIO DEL BOT
-<a href="https://github.com/AzamiJs"><img src="https://github.com/AzamiJs.png" width="250" height="250" alt="Azami19"/></a>
+<a href="https://github.com/Jostin207"><img src="https://github.com/Jostin207.png" width="250" height="250" alt="Jostin207"/></a>
 
 #### COLABORADORES 
-<a href="https://github.com/AzamiJs/CuriosityBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" /> 
+<a href="https://github.com/Jostin207/GokuBot-MD-/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Jostin207/GokuBot-MD-" /> 
 </a>
 
 <!-- markdownlint-restore -->
