@@ -1,10 +1,10 @@
 ## GokuBot-MD ✨
 
 <p align="center">
-<img src="https://telegra.ph/file/1de45831f62519a4dac60.jpg" alt="CuriosityBot-MD" width="900"/>
+<img src="https://telegra.ph/file/f244713564e909c228978.jpg" alt="GokuBot-MD" width="900"/>
 </p>
 
-<a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
+<a href="https://github.com/Jostin207/GokuBot-MD-"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azamijs/CuriosityBot-MD?label=watchers&color=ff4500&style=flat-square" /></a> <br>
 
@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-### Ejemplo 
-En caso de duda, antes de instalar CuriosityBot-MD, pruebe el bot aquí
+### Ejemplo
+En caso de duda, antes de instalar GokuBot-MD, pruebe el bot aquí
 
 <a href="https://chat.whatsapp.com/LCAUbkf5kUz7jSxO6FADMU">
   <img src="https://img.shields.io/badge/CuriosityBot-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
