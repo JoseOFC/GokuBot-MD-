@@ -19,6 +19,8 @@ global.suittag = ['5214531287294']
 global.mods = []
 global.prems = []
 
+global.lenguajeSK = es //idioma de gokubot-md
+
 global.packname = '© 𝙶𝙾𝙺𝚄𝙱𝙾𝚃'
 global.author = 'Created By Jostin'
 global.wm = '© GokuBot-MD'
