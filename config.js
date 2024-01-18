@@ -1,7 +1,6 @@
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
-import { es } from "./lib/idiomas/total-idiomas.js"
 
 global.owner = [
   
@@ -19,8 +18,6 @@ global.animxscans = ['5214531287294']
 global.suittag = ['5214531287294']
 global.mods = []
 global.prems = []
-
-global.lenguajeSK = es //idioma de gokubot-md
 
 global.packname = '© 𝙶𝙾𝙺𝚄𝙱𝙾𝚃'
 global.author = 'Created By Jostin'
