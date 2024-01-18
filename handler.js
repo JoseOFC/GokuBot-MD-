@@ -310,7 +310,7 @@ return
 }
 let adminMode = global.db.data.chats[m.chat].modoadmin
 let curiosity = `${plugins.botAdmin || plugins.admin || plugins.group || plugins || noPrefix || hl ||  m.text.slice(0, 1) == hl || plugins.command}`
-if (adminMode && !isOwner && !isROwner && m.isGroup && !isAdmin && curiosity) return 
+if (adminMode && !isOwner && !isROwner && m.isGroup && !isAdmin && goku) return 
 if (plugin.rowner && plugin.owner && !(isROwner || isOwner)) {
 fail('owner', m, this)
 continue
@@ -573,7 +573,7 @@ group: '*¡Este comando solo se puede usar en grupos!*',
 private: '*¡Esta función solo se puede utilizar en chat privado!*',
 admin: '*¡Este comando solo puede ser utilizado por admins!*',
 botAdmin: '*¡Para realizar la función debo ser admin!*',
-unreg: '*¡Para continuar con esta función debera registrarse!*\n\n!reg nombre.edad\n\n*Uso correcto* : !reg Azami.21',
+unreg: '*[❗𝐈𝐍𝐅𝐎❗] Debe registrarse para poder usar el bot_*\n\n!reg nombre.edad\n\n*Ejemplo* : !reg Jostin .21',
 restrict: '*¡Esta característica esta desactivada!*'
 }[type]
 if (msg) return conn.reply(m.chat, msg, m, { contextInfo:{ externalAdReply: {title: '🎄'  + saludo + ' ' + nombre, body: dev, sourceUrl: global.channel, thumbnailUrl: fotos }}})
