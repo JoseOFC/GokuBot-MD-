@@ -15,12 +15,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('Curiosity\nBot\nMD', {
+say('Goku\nBot\nMD', {
 font: 'block',
 align: 'center',
 colors: ['magenta', 'cyan']
 })
-say(`Bot: ${name}\nVersion: 1.0.5\nCreador: Azami ~ Zam\nNumero: +52 1 729 488 8993\nEmail: thecuriositybot@gmail.com`, {
+say(`Bot: ${name}\nVersion: 1.0.5\nCreador: Jostin ~ Goku\nNumero: +593 939 005 387\nEmail: thecuriositybot@gmail.com`, {
 font: 'console',
 gradient: ['blue', 'magenta']
 })
@@ -58,7 +58,7 @@ break
 })
 p.on('exit', (_, code) => {
 isRunning = false
-console.error('⚠️ Ocurrió un error inesperado:', code)
+console.error('[❗𝐈𝐍𝐅𝐎❗] Ocurrió un error inesperado:', code)
 if (code === 0) return
 watchFile(args[0], () => {
 unwatchFile(args[0])
