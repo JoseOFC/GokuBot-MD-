@@ -20,7 +20,7 @@ font: 'block',
 align: 'center',
 colors: ['magenta', 'cyan']
 })
-say(`Bot: ${name}\nVersion: 1.0.5\nCreador: Jostin ~ Goku\nNumero: +593 939 005 387\nEmail: thecuriositybot@gmail.com`, {
+say(`Bot: ${name}\nVersion: 1.0.5\nCreador: Jostin ~ Goku\nNumero: +593 939 005 387\nEmail: gokubotmdofc@gmail.com`, {
 font: 'console',
 gradient: ['blue', 'magenta']
 })
