@@ -22,9 +22,9 @@ let links = linkSity.getRandom()
 //FAKES
 let a = {'key': {'participants': '0@s.whatsapp.net', 'fromMe': false, 'id': '3B64558B07848BD81108C1D14712018E'}, 'message': {'locationMessage': {'name': `${name}`, 'jpegThumbnail': await (await fetch(pp)).buffer(), 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${wm},;;;\nFN:${wm},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabell:Ponsel\nEND:VCARD`}}, 'participant': '0@s.whatsapp.net'}
 const ftrol = { key : { remoteJid: 'status@broadcast', participant : '0@s.whatsapp.net' }, message: { orderMessage: { itemCount : 2023, status: 1, surface : 1, message: `${name}!`, orderTitle: `▮Menu ▸`, sellerJid: '0@s.whatsapp.net' }}}
-const fload = { key : { message: `CuriosityBot-MD 🍧` + `\nAzami`, thumbnail: await (await fetch(pp)).buffer(), sellerJid: '0@s.whatsapp.net' }}
+const fload = { key : { message: `GokuBot-MD 🍧` + `\nJostin`, thumbnail: await (await fetch(pp)).buffer(), sellerJid: '0@s.whatsapp.net' }}
 
-m.react('🏷️')
+m.react('📃')
   
 let menu = `*👋 Hola, ${name}*
 
@@ -36,7 +36,7 @@ await conn.reply(m.chat, menu, a, { contextInfo: { externalAdReply: {title: '�
 
 
 } catch {
-conn.reply(m.chat, `*🚩 Ocurrió un fallo*`, m, fake, )
+conn.reply(m.chat, `*[❗𝐈𝐍𝐅𝐎❗] Ocurrió un fallo*`, m, fake, )
 console.log(e)
 }}
 handler.tags = ['bot']
