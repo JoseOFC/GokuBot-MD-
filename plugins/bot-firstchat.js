@@ -7,7 +7,7 @@ if (m.chat.endsWith('broadcast') || m.fromMe || m.isGroup) return
 let user = global.db.data.users[m.sender]
 
 if (new Date() - user.pc < 86400000) return
-await conn.reply(m.chat, `👋🏻 Hola, Como Estas? ${nombre} Bienvenido Al Bot: GokuBot-MD, Soy Creado Por Jostin!!
+await conn.reply(m.chat, `👋🏻 Hola, Como Estas? ${nombre} Bienvenido Al Bot: GokuBot-MD, Fui Creado Por Jostin!!
  *${saludo}*
 
 📅 Fecha: ${fecha}
