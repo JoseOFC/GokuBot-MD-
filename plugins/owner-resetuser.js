@@ -1,4 +1,4 @@
-//creditos a diegojadibot
+//creditos a nadien
 
 const handler = async (m, { conn, text }) => {
     const numberPattern = /\d+/g;
