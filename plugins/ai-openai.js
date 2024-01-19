@@ -6,7 +6,7 @@ const configuration = new Configuration({ organization: global.openai_org_id, ap
 const openaiii = new OpenAIApi(configuration);
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 if (usedPrefix == 'a' || usedPrefix == 'A') return    
-if (!text) return conn.reply(m.chat, `*🎌 Ingrese una petición*\n\nEjemplo, !ia Pasos para crear una página`, m, fake, )
+if (!text) return conn.reply(m.chat, `*[❗𝐈𝐍𝐅𝐎❗] Debe ingresar una petición*\n\nEjemplo: !ia Dime pasos para crear una página xxx🔥`, m, fake, )
 
 try {
 
