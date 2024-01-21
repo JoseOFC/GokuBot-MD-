@@ -26,7 +26,7 @@ let info = `
  *Jostin*
 ࿇ ══━━━━✥◈✥━━━━══ ࿇
 🥏 *CONTACTO* 
- *Wa.me/5491168758497*
+ *${ig}*
 ࿇ ══━━━━✥◈✥━━━━══ ࿇
 🌐 *VERSIÓN ACTUAL*
  ${vs}
