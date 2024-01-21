@@ -23,7 +23,7 @@ let info = `
 *📑 INFO GOKU BOT MD*
 
 👑 *CREADOR*
- *Jostin*
+ *𝕁𝕆𝕊𝕋𝕀ℕ*
 ࿇ ══━━━━✥◈✥━━━━══ ࿇
 🥏 *CONTACTO* 
  *${ig}*
