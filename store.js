@@ -53,15 +53,15 @@ global.jadibts = join(__dirname, 'jadibts/')
 global.raiz = './storage/logos/Menu1.jpg'
 
 //Reacciones
-global.rwait = '⏰'
-global.done = '✅'
-global.error = '❌'
+global.rwait = '👨‍💻'
+global.done = '🩶'
+global.error = '🏳️‍🌈'
 
 //Cargando
-global.wait = '*■□□□□ 20%*'
-global.waitt = '*■■■□□ 60%*'
-global.waittt = '*■■■■□ 90%*'
-global.waitttt = '*■■■■■ 100%*'
+global.wait = '*𝗘𝘀𝗽𝗲𝗿𝗮 𝗚𝗮𝘆 𝗘𝘀𝘁𝗮 𝗖𝗮𝗿𝗴𝗮𝗻𝗱𝗼👨‍💻*'
+global.waitt = '*𝗚𝗮𝘆 𝗘𝘀𝗽𝗲𝗿𝗮𝘁𝗲🚀*'
+global.waittt = '*𝗗𝗲𝗷𝗮 𝗗𝗲 𝗝𝗼𝗱𝗲𝗿 𝗘𝘀𝗽𝗲𝗿𝗮👋*'
+global.waitttt = '*𝗟𝗶𝘀𝘁𝗼 𝗚𝗮𝘆¯\_(ツ)_/¯*'
 
 //fake
 global.fsizedoc = '999999'
