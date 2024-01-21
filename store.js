@@ -34,11 +34,11 @@ global.md = 'https://github.com/Jostin207/GokuBot-MD-'
 global.paypal = 'https://paypal.me/Azami19'
 global.git = 'https://github.com/Jostin207'
 global.nn = 'https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s' //Grupo ofc
-global.nnn = 'https://chat.whatsapp.com/CedAfdPDr5cHkyvvw6nTAu' //Staff de GokuBot-MD |Solo personal autorisado|
+global.nnn = 'https://chat.whatsapp.com/H6vi4EhMbzB1rZeczZ8iPC' //colaboración GokuBot-MD - SakuraBot-MD
 global.nnnn = 'https://chat.whatsapp.com/Gd85w1s6tKh5Nw4p490xBw' //colaboración GokuBot-MD - NexusBot-MD
 global.nnnnn = 'https://chat.whatsapp.com/KPYQmm3METq2lKuT6e3NbM' //Colaboración GokuBot-MD - DiabloBot-MD
 global.channel = 'https://whatsapp.com/channel/0029VaJL0xn0LKZL7FtiRs1e' //canal ofc
-global.email = 'thecuriositybot@gmail.com'
+global.email = 'gokubotmdofc@gmail.com'
 global.linkSity = [yt, ig, md, paypal, git, channel]
 
 //Raíz
