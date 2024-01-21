@@ -54,7 +54,7 @@ let info = `
 ࿇ ══━━━━✥◈✥━━━━══ ࿇
 📡 *AUTOREAD:*
  ${autoread ? '*Habilitado ✅*' : '*Deshabilitado ❌*'}
---------------------------
+࿇ ══━━━━✥◈✥━━━━══ ࿇
 🔰 *RESTRICT:*
 ${restrict ? '*Habilitado ✅*' : '*Deshabilitado ❌*'}`.trim() 
 let aa = { quoted: m, userJid: conn.user.jid }
