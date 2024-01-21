@@ -29,7 +29,7 @@ global.sityImg = [img, img1, img2, img3, img4, img5, img6]
 
 //Enlaces
 global.yt = 'https://youtube.com/@Jostin_ofc'
-global.ig = 'https://www.instagram.com/gokusito_'
+global.ig = 'https://www.instagram.com/gokusitobot_'
 global.md = 'https://github.com/Jostin207/GokuBot-MD-'
 global.paypal = 'https://www.paypal.me/EnzitoOFC'
 global.git = 'https://github.com/Jostin207'
